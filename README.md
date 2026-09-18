@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/icon.svg" alt="WAND-PATCHER Logo" width="160" height="160" />
+<img src="https://raw.githubusercontent.com/D3ymon4ke/WAND-PATCHER/main/assets/icon.svg" alt="WAND-PATCHER Logo" width="180" height="180" />
 
 # 🪄 WAND-PATCHER
 
